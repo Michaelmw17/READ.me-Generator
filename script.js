@@ -31,17 +31,17 @@ function promptUser(){
         {
             type: "input",
             name: "description",
-            message: "Enter a brief description of your project: "
+            message: "Please Enter a brief description of your project: "
         },
         {
             type: "input",
             name: "installation",
-            message: "Explain installation process if any: ",
+            message: "Explain commands for installation process if any: ",
         },
         {
             type: "input",
             name: "usage",
-            message: "What is this project usage for? "
+            message: "What commands should be run to run test "
         },
         {
             type: "list",

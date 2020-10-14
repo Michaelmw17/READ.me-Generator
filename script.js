@@ -59,7 +59,7 @@ function promptUser(){
         {
             type: "input",
             name: "contributing",
-            message: "Whom are contributors of this project?"
+            message: "what does user need to know about contributing to this repository?"
         },
         {
             type: "input",
@@ -69,7 +69,7 @@ function promptUser(){
         {
             type: "input",
             name: "questions",
-            message: "What needs to be done if I have an issue? "
+            message: "What does the user know to know about using the repository? "
         },
         {
             type: "input",

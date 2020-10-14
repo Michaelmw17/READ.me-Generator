@@ -3,7 +3,7 @@ function generateReadMe(answers) {
     return `
 <h1 align="center">${answers.projectTitle}</h1>
 
-  
+
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 ![badge](https://img.shields.io/badge/license-${answers.license}-green)<br />
@@ -33,8 +33,8 @@ ${answers.contributing}
 ## Screenshots
 Include logo/demo screenshot etc.
 
-##Tests :pencil2:
- ${answers.tests}
+## Tests :pencil2:
+${answers.tests}
 
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-green)

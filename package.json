@@ -1,0 +1,21 @@
+{
+  "name": "w8homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Michaelmw17?tab=repositories"
+  },
+  "keywords": [
+    "w8homework"
+  ],
+  "author": "Michael Watt",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}

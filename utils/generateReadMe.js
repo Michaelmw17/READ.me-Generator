@@ -1,5 +1,5 @@
 // generateReadMe function -  README.md
-function generateReadMe(answers) {
+  generateReadMe = (answers) => {
     return `
 <h1 align="center">${answers.projectTitle}</h1>
 

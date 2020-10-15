@@ -5,7 +5,7 @@ const inquirer = require("inquirer");
 const generateReadMe = require("./utils/generateReadMe")
 const writeFileAsync = util.promisify(fs.writeFile);
 
-//Prompt user question's to populate the README.md
+
 // WHEN I am prompted for information about my application repository
 // THEN a quality, professional README.md is generated with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 // WHEN I enter my project title
@@ -21,7 +21,8 @@ const writeFileAsync = util.promisify(fs.writeFile);
 // WHEN I click on the links in the Table of Contents
 // THEN I am taken to the corresponding section of the README
 
-function promptUser(){
+//Prompt user question's to populate the README.md
+    promptUser = () => {
     return inquirer.prompt([
         {
             type: "input",
@@ -59,7 +60,7 @@ function promptUser(){
         {
             type: "input",
             name: "contributing",
-            message: "what does user need to know about contributing to this repository?"
+            message: "What does user need to know about contributing to this repository?"
         },
         {
             type: "input",

@@ -1,5 +1,5 @@
 
-<h1 align="center">Read me</h1>
+<h1 align="center">Read me gen</h1>
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -7,7 +7,7 @@
 ![badge](https://img.shields.io/badge/license-Open-green)<br />
 
 ## Description
-bl
+terminal produces read me
 
 ## Table of Contents
 
@@ -19,40 +19,44 @@ bl
 - [License](#license)
 - [Screenshots](#screenshots)
 - [Questions](#questions)
+- [Contact](#contact)
 
-## Installation :floppy_disk:
 <a name="installation"></a>
-bl
+## Installation :floppy_disk:
+npm i npm init npm inquirier
 
-## Usage :computer:
 <a name="usage"></a>
-lb
+## Usage :computer:
+node script
 
-## Contributing :family:
 <a name="contributing"></a>
-dfs
+## Contributing :family:
+User understands basic of termanil and npm
 
 ## Screenshots
 Include logo/demo screenshot etc. undefined
 
-## Tests :pencil2:
 <a name="tests"></a>
-df
+## Tests :pencil2:
+NA
 
 ## License
 ![badge](https://img.shields.io/badge/license-Open-green)
 <br />
 This application is covered by the Open license. 
 
-## Questions :question:
 <a name="questions"></a>
-df<br />
+## Questions :question:
+Run installs before attempting to run in termnail<br />
+
+<a name="contact"></a>
+## Contact
 <br />
-Find me on :octocat: : [fd](https://github.com/fd)
+Find me on :octocat: : [Michaelmw17@outlook.com](https://github.com/Michaelmw17@outlook.com)
 *****
 <br />
 
-Email me with any questions :email: : df
+Email me with any questions :email: : Michalmw17@outlook.com
 *****
 <br />
 

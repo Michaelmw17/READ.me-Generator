@@ -21,24 +21,25 @@ ${answers.description}
 - [License](#license)
 - [Screenshots](#screenshots)
 - [Questions](#questions)
+- [Contact](#contact)
 
-## Installation :floppy_disk:
 <a name="installation"></a>
+## Installation :floppy_disk:
 ${answers.installation}
 
-## Usage :computer:
 <a name="usage"></a>
+## Usage :computer:
 ${answers.usage}
 
-## Contributing :family:
 <a name="contributing"></a>
+## Contributing :family:
 ${answers.contributing}
 
 ## Screenshots
 Include logo/demo screenshot etc. ${answers.screenshots}
 
-## Tests :pencil2:
 <a name="tests"></a>
+## Tests :pencil2:
 ${answers.tests}
 
 ## License
@@ -46,9 +47,12 @@ ${answers.tests}
 <br />
 This application is covered by the ${answers.license} license. 
 
-## Questions :question:
 <a name="questions"></a>
+## Questions :question:
 ${answers.questions}<br />
+
+<a name="contact"></a>
+## Contact
 <br />
 Find me on :octocat: : [${answers.username}](https://github.com/${answers.username})
 *****

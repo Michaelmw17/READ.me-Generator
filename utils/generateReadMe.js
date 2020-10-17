@@ -22,17 +22,17 @@ ${answers.description}
 - [Screenshots](#screenshots)
 - [Questions](#questions)
 
-## <strong>Installation<strong /> :floppy_disk:
+## Installation :floppy_disk:
 ${answers.installation}
 
-## How to use? :computer:
+## Usage :computer:
 ${answers.usage}
 
 ## Contributing :family:
 ${answers.contributing}
 
 ## Screenshots
-Include logo/demo screenshot etc.
+Include logo/demo screenshot etc. ${answers.screenshots}
 
 ## Tests :pencil2:
 ${answers.tests}

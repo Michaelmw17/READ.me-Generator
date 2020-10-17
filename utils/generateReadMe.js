@@ -23,26 +23,31 @@ ${answers.description}
 - [Questions](#questions)
 
 ## Installation :floppy_disk:
+<a name="installation"></a>
 ${answers.installation}
 
 ## Usage :computer:
+<a name="usage"></a>
 ${answers.usage}
 
 ## Contributing :family:
+<a name="contributing"></a>
 ${answers.contributing}
 
 ## Screenshots
 Include logo/demo screenshot etc. ${answers.screenshots}
 
 ## Tests :pencil2:
+<a name="tests"></a>
 ${answers.tests}
 
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-green)
 <br />
-This application is covered by the <strong>${answers.license}<strong/> license. 
+This application is covered by the ${answers.license} license. 
 
 ## Questions :question:
+<a name="questions"></a>
 ${answers.questions}<br />
 <br />
 Find me on :octocat: : [${answers.username}](https://github.com/${answers.username})

@@ -1,5 +1,5 @@
 
-<h1 align="center">Read me Generator</h1>
+<h1 align="center">Read me</h1>
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -7,7 +7,7 @@
 ![badge](https://img.shields.io/badge/license-Open-green)<br />
 
 ## Description
-This termail will generate a read me 
+bl
 
 ## Table of Contents
 
@@ -20,34 +20,39 @@ This termail will generate a read me
 - [Screenshots](#screenshots)
 - [Questions](#questions)
 
-## <strong>Installation<strong /> :floppy_disk:
-Need too run: 'Npm i', 'npm inquirier', 'npm init'.
+## Installation :floppy_disk:
+<a name="installation"></a>
+bl
 
-## How to use? :computer:
-Node script.js
+## Usage :computer:
+<a name="usage"></a>
+lb
 
 ## Contributing :family:
-The user will need to understand the basics of termail 
+<a name="contributing"></a>
+dfs
 
 ## Screenshots
-Include logo/demo screenshot etc.
+Include logo/demo screenshot etc. undefined
 
 ## Tests :pencil2:
-NA
+<a name="tests"></a>
+df
 
 ## License
 ![badge](https://img.shields.io/badge/license-Open-green)
 <br />
-This application is covered by the <strong>Open<strong/> license. 
+This application is covered by the Open license. 
 
 ## Questions :question:
-Need to install commands  before being able to run project<br />
+<a name="questions"></a>
+df<br />
 <br />
-Find me on :octocat: : [michaelmw17](https://github.com/michaelmw17)
+Find me on :octocat: : [fd](https://github.com/fd)
 *****
 <br />
 
-Email me with any questions :email: : Michaelmw17@outlook.com
+Email me with any questions :email: : df
 *****
 <br />
 

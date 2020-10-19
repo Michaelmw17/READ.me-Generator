@@ -9,9 +9,9 @@
 ## Description 
 
   
-Every github project needs a quality README with information. About the app, what the app is for, how to use the app, how to install it, tests, and how to make contributions so that developers of all kinds  are more likely to use and contribute to the success of the project. 
+Every github project needs a quality README with information,  about the app, what the app is for, how to use the app, how to install it, tests, and how to make contributions so that developers of all kinds  are more likely to use and contribute to the success of the project. 
 
-This application is a command-line project that runs with Node.js that will dynamically generate a README.md file based on input about your project. Check out the [`README.md`](https://github.com/Michaelmw17/w8homework) in this repo as an example. 
+This App is a command-line project that runs with Node.js that will dynamically generate a README.md file based on input about your project. Check out the [`README.md`](https://github.com/Michaelmw17/w8homework) in this repo as an example. 
 
 
 ## Table of Contents
@@ -20,7 +20,6 @@ This application is a command-line project that runs with Node.js that will dyna
 * [Demonstration](#demonstration)
 * [Procedure](#Procedure)
 * [License](#license)
-* [Questions](#questions)
 * [Authors](#authors)
   
 
@@ -35,7 +34,7 @@ To generate your own README, first run `npm install` in order to install the fol
 ## Demonstration 
 
 *Instructions and examples screen record:* <br>
-![ README Generator](vid/giphy.gif)
+![ README Generator](./vid/giphy.gif)
 Or the full video is [here](./vid/ScreenRecording6.17.47pm.webm)  
 
 
@@ -53,13 +52,18 @@ The application also utilizes, as much as i could, new syntax introduced in ES6 
 
 
 
-## Questions?
-
-
-## Authors
+## Authors 
 
 Feel free to use for you own work to generate a README for your project.
 
 GitHub: [@michaelmw17](https://github.com/Michaelmw17/w8homework)
 
 Email: michaelmw17@outlook.com
+
+## Resources  
+ [@shields](https://shields.io/),
+ [@node.js](https://nodejs.org/api/modules.html#modules_module_exports),
+ [@node.js](https://nodejs.org/dist/latest-v8.x/docs/api/util.html#util_util_promisify_original),
+ [@node.js](https://nodejs.org/api/),
+ [@npm](https://www.npmjs.com/package/inquirer),
+ [@npm](https://www.npmjs.com/package/axios).

@@ -23,18 +23,18 @@ A quality, professional [here](.dist/README.md)   is generated with the title of
 
 <a name="installation"></a>
 ## Installation :floppy_disk:
-`npm init`
+`npm init, npm inquirer`
 
 <a name="usage"></a>
 ## Usage :computer:
-node script.js
+Npm test
 
 <a name="contributing"></a>
 ## Contributing :family:
-This project is used to generated a READ.me file through the command line
+Run the following command at the root of your project and answer the prompted questions:
 
 ## Screenshots
-Include logo/demo screenshot etc. undefined
+Include logo/demo screenshot etc.
 
 <a name="tests"></a>
 ## Tests :pencil2:
@@ -47,17 +47,17 @@ This application is covered by the Open license.
 
 <a name="questions"></a>
 ## Questions :question:
-Run the following command at the root of your project and answer the prompted questions:<br />
+ANy question you have<br />
 
 <a name="contact"></a>
 ## Contact
 <br />
-Find me on :octocat: : [Michaelmw17](https://github.com/Michaelmw17)
-
-<br />
+Find me on :octocat: : [michaelmw17](https://github.com/michaelmw17)
 *****
+<br />
 
-Email me with any questions :email: : michaelmw17@outlook.com
+
+Email me with any questions :email: : Michaelmw17@outlook.com
 *****
 <br />
 

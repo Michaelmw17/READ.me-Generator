@@ -36,7 +36,7 @@ ${answers.usage}
 ${answers.contributing}
 
 ## Screenshots
-Include logo/demo screenshot etc. ${answers.screenshots}
+Include logo/demo screenshot etc.
 
 <a name="tests"></a>
 ## Tests :pencil2:
@@ -55,9 +55,9 @@ ${answers.questions}<br />
 ## Contact
 <br />
 Find me on :octocat: : [${answers.username}](https://github.com/${answers.username})
-
-<br />
 *****
+<br />
+
 
 Email me with any questions :email: : ${answers.email}
 *****

@@ -31,7 +31,7 @@ The application itself can be invoked with `node script.js`.
 ## Demonstration 
 
 *Instructions and examples screen record:*
-![ README Generator](<iframe src="https://giphy.com/embed/79POcLvg2yKio9PQke" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/79POcLvg2yKio9PQke">via GIPHY</a></p>)
+![ README Generator](https://giphy.com/gifs/79POcLvg2yKio9PQke/html5)
 
 
 ## Procedure

@@ -33,8 +33,7 @@ To generate your own README, first run `npm install` in order to install the fol
 
 ## Demonstration 
 
-*Instructions and examples screen record:* <br>
-![ README Generator](./vid/giphy.gif)
+![ README Generator](./vid/giphy.gif) <br />
 Or the full video is [here](./vid/ScreenRecording6.17.47pm.webm)  
 
 
@@ -61,9 +60,9 @@ GitHub: [@michaelmw17](https://github.com/Michaelmw17/w8homework)
 Email: michaelmw17@outlook.com
 
 ## Resources  
- [@shields](https://shields.io/),
- [@node.js](https://nodejs.org/api/modules.html#modules_module_exports),
- [@node.js](https://nodejs.org/dist/latest-v8.x/docs/api/util.html#util_util_promisify_original),
- [@node.js](https://nodejs.org/api/),
- [@npm](https://www.npmjs.com/package/inquirer),
- [@npm](https://www.npmjs.com/package/axios).
+ [@shields](https://shields.io/)<br />
+ [@node.js](https://nodejs.org/api/modules.html#modules_module_exports)<br />
+ [@node.js](https://nodejs.org/dist/latest-v8.x/docs/api/util.html#util_util_promisify_original)<br />
+ [@node.js](https://nodejs.org/api/)<br />
+ [@npm](https://www.npmjs.com/package/inquirer)<br />
+ [@npm](https://www.npmjs.com/package/axios)

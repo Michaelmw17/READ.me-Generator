@@ -30,8 +30,10 @@ The application itself can be invoked with `node script.js`.
 
 ## Demonstration 
 
-*Instructions and examples screen record:*
+*Instructions and examples screen record:* <br>
 ![ README Generator](vid/giphy.gif)
+Or the full video is [here](./vid/ScreenRecording6.17.47pm.webm)  
+
 
 
 ## Procedure

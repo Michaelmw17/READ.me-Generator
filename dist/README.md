@@ -4,10 +4,10 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-![badge](https://img.shields.io/badge/license-Apache-green)<br />
+![badge](https://img.shields.io/badge/license-Open-green)<br />
 
 ## Description
-A quality, professional README.md is generated with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+A quality, professional [here](.dist/README.md)   is generated with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions 
 
 ## Table of Contents
 
@@ -23,41 +23,41 @@ A quality, professional README.md is generated with the title of your project an
 
 <a name="installation"></a>
 ## Installation :floppy_disk:
-To generate your own README, you will need to first run `npm install` in order to install the following npm package dependencies as specified in the `package.json`:
+`npm init`
 
 <a name="usage"></a>
 ## Usage :computer:
-N/a
+node script.js
 
 <a name="contributing"></a>
 ## Contributing :family:
-This project is used to generated a READ.me file through the command line.
+This project is used to generated a READ.me file through the command line
 
 ## Screenshots
 Include logo/demo screenshot etc. undefined
 
 <a name="tests"></a>
 ## Tests :pencil2:
-  * [`init`](https://www.npmjs.com/package/init) that will prompt you for your inputs from the command line 
+N/a
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache-green)
+![badge](https://img.shields.io/badge/license-Open-green)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Open license. 
 
 <a name="questions"></a>
 ## Questions :question:
-Intructions refer to vid link<br />
+Run the following command at the root of your project and answer the prompted questions:<br />
 
 <a name="contact"></a>
 ## Contact
 <br />
-Find me on :octocat: : [michaelmw17](https://github.com/michaelmw17)
+Find me on :octocat: : [Michaelmw17](https://github.com/Michaelmw17)
 
 <br />
 *****
 
-Email me with any questions :email: : Michael@outlook.com
+Email me with any questions :email: : michaelmw17@outlook.com
 *****
 <br />
 

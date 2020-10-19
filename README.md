@@ -1,5 +1,11 @@
 # README.md Generator:
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-inquirer-red" >
+</p>
+
 ## Description 
 
   
@@ -20,13 +26,11 @@ This application is a command-line project that runs with Node.js that will dyna
 
 ## Installation
 
-To generate your own README, first run `npm install` in order to install the following npm package dependencies as specified in the `package.json`:
+To generate your own README, first run `npm install` in order to install the following npm package dependencies as specified in the `package.json` then run:
 
-  * [`inquirer`](https://www.npmjs.com/package/inquirer) that will prompt you for your inputs from the command line.
-  * [`axios`](https://www.npmjs.com/package/axios) to fetch your info from the GitHub API.
-
-The application itself can be invoked with `node script.js`.
-
+`npm init`
+  
+`npm install inquirer`
 
 ## Demonstration 
 

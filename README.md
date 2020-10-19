@@ -9,9 +9,9 @@
 ## Description 
 
   
-Every github project needs a quality README with information,  about the app, what the app is for, how to use the app, how to install it, tests, and how to make contributions so that developers of all kinds  are more likely to use and contribute to the success of the project. 
+Every github project needs a quality README with information, about the app, what the app is for, how to use the app, how to install it, tests, and how to make contributions so that developers of all kinds are likely to use and contribute to the success of the project. 
 
-This App is a command-line project that runs with Node.js that will dynamically generate a README.md file based on input about your project. Check out the [`README.md`](https://github.com/Michaelmw17/w8homework) in this repo as an example. 
+This App is a command-line project that runs with Node.js that will dynamically generate a README.md file based on input about your project. Check out the [`README.md`](https://github.com/Michaelmw17/w8homework) in `dist` folder this repo as an example. 
 
 
 ## Table of Contents
@@ -40,14 +40,14 @@ Or the full video is [here](./vid/ScreenRecording6.17.47pm.webm)
 
 ## Procedure
 
-The application utilizes scalability by separating the GitHub API call and generation of the markdown into separate modules: `script.js` and `generateMarkdown.js`, respectively, inside the `utils` folder.
+The application utilizes scalability by separating the GitHub API call and generation of the markdown into separate modules: `script.js` and `generateMarkdown.js`, inside the `dist` folder.
 
-The application also utilizes, as much as i could, new syntax introduced in ES6 and more, including `let`, `const`,`arrow functions`, template literals, and `async/await`as well as  handling `inquirer`, `axios`, and `fs.writeFile` promises.
+The application also utilizes, as much as i could, new syntax introduced in ES6 and more, including `const`,`arrow functions`, template literals, and `async/await` as well as  handling `inquirer`, `init`, and `fs.writeFile` promises.
 
 
 ## License
 
-- [MIT License](https://opensource.org/licenses/MIT)
+- [UnLicense](https://unlicense.org)
 
 
 
@@ -65,4 +65,4 @@ Email: michaelmw17@outlook.com
  [@node.js](https://nodejs.org/dist/latest-v8.x/docs/api/util.html#util_util_promisify_original)<br />
  [@node.js](https://nodejs.org/api/)<br />
  [@npm](https://www.npmjs.com/package/inquirer)<br />
- [@npm](https://www.npmjs.com/package/axios)
+ 

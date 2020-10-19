@@ -47,7 +47,7 @@ This application is covered by the Open license.
 
 <a name="questions"></a>
 ## Questions :question:
-ANy question you have<br />
+Any question you have<br />
 
 <a name="contact"></a>
 ## Contact

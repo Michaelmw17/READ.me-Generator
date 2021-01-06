@@ -66,3 +66,13 @@ Email: michaelmw17@outlook.com
  [@node.js](https://nodejs.org/api/)<br />
  [@npm](https://www.npmjs.com/package/inquirer)<br />
  
+ ## Questions
+
+_Michael Watt_
+
+- [Github!](https://github.com/Michaelmw17)
+- [LinkedIn!](https://www.linkedin.com/in/michael-watt-6a76961b3/)
+- [Portfolio!](http://michaelmw17.github.io/)
+- Email:(michaelmw17@outlook.com)
+
+ 

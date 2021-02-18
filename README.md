@@ -8,7 +8,7 @@
 
 ## Description 
 
-  <img src="Employee.jpg" alt="jpg" >
+  <img src="https://png.pngtree.com/png-vector/20190912/ourmid/pngtree-happy-employee-png-image_1730801.jpg" alt="jpg" width="100%" height="100%">
 Every github project needs a quality README with information, about the app, what the app is for, how to use the app, how to install it, tests, and how to make contributions so that developers of all kinds are likely to use and contribute to the success of the project. 
 
 

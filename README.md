@@ -8,8 +8,9 @@
 
 ## Description 
 
-  
+  <img src="Employee.jpg" alt="jpg" >
 Every github project needs a quality README with information, about the app, what the app is for, how to use the app, how to install it, tests, and how to make contributions so that developers of all kinds are likely to use and contribute to the success of the project. 
+
 
 This App is a command-line project that runs with Node.js that will dynamically generate a README.md file based on input about your project. Check out the [`README.md`](https://github.com/Michaelmw17/w8homework) in `dist` folder this repo as an example. 
 
